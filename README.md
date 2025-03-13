@@ -11,6 +11,7 @@ Soy un desarrollador web full stack con experiencia en tecnologías como **Next.
 
 ## Proyectos Destacados
 
+### [HXT.GG](https://hxt.gg)
 ![HXT.GG](https://cdn.discordapp.com/attachments/1196851761210724362/1349482465131233342/hxt-banner-2.jpg?ex=67d342fb&is=67d1f17b&hm=fe28054f5141813ccc61769eb6f5a536b61feaa90201ed651cb7165f5d98b6fa&)
 - **Descripción**: Plataforma web para conectar jugadores y equipos amateur competitivos en League of Legends.  
 - **Tecnologías**: Next.js, React, Tailwind CSS, Framer-Motion, Node.js, Express.js, WebSockets  
